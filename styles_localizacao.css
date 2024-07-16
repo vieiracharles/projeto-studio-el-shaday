@@ -1,0 +1,51 @@
+* {
+    padding: 0;
+    margin: 0;
+    border-radius: border-box;
+    font-family: "Playwrite AU SA", cursive;
+}
+
+body {
+    background-color: #c167ac;
+
+}
+
+h1 {
+    margin-top: 30px;
+    margin-bottom: 25px;
+    font-size: 25px;
+    letter-spacing: 05px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h2 {
+    margin-bottom: 40px;
+    display: flex;
+    font-size:17px ;
+    letter-spacing: 2px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
+
+p {
+    margin-bottom: 30px;
+    display: flex;
+    letter-spacing: 05px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+}
+.mapa-localizacao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
